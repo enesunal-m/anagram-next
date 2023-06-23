@@ -1,5 +1,3 @@
-// components/GameScreen.tsx
-
 import { FC, useEffect, useState } from 'react';
 import MainCard from '../layout/MainCard';
 

@@ -1,5 +1,3 @@
-// pages/index.tsx
-
 import { useState } from 'react';
 import StartScreen from '../components/screens/StartScreen';
 import GameScreen from '../components/screens/GameScreen';

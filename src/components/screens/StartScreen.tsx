@@ -1,5 +1,3 @@
-// components/StartScreen.tsx
-
 import { FC, useState } from 'react';
 import MainCard from '../layout/MainCard';
 

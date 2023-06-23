@@ -1,5 +1,3 @@
-// components/EndScreen.tsx
-
 import { FC } from 'react';
 import MainCard from '../layout/MainCard';
 
